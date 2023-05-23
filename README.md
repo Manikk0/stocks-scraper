@@ -1,6 +1,6 @@
 # Stocks Web Scraper
 
-Python script which will scrape Yahoo.com website and get all stocks (symbol, name, price), guaranteed last updated data, because I am using selenium and scraper method, so .py can access website real-time.
+Python script which will scrape Yahoo.com website and get all stocks (symbol, name, price), guaranteed last updated data, because it is using selenium as scraper method, so .py can access website real-time.
 
 ## Used libraries
 Selenium, Pandas, Time
